@@ -18,10 +18,10 @@
 
 set -e
 
-DEVICE=riva
-VENDOR=xiaomi
+DEVICE=D2
+VENDOR=10or
 
-INITIAL_COPYRIGHT_YEAR=2017
+INITIAL_COPYRIGHT_YEAR=2019
 
 # Load extract_utils and do some sanity checks
 MY_DIR="${BASH_SOURCE%/*}"
