@@ -20,4 +20,3 @@ Front Camera | 5.0 MP
 Release Date | August 2018
 
 ![10or D2](https://fdn.gsmarena.com/imgroot/news/18/08/10.or-d2/-728w2/gsmarena_001.jpg "10or D2")
-
