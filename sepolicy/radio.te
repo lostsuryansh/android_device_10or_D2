@@ -1,1 +1,1 @@
-allow system_server radio_prop:property_service set;
+allow radio vendor_file:file rx_file_perms;

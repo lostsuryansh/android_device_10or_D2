@@ -1,4 +1,4 @@
-Linaege Project (c) 2021
+Lineage Project (c) 2021
 
 Device configuration for 10or D2  (_D2_)
 =====================================================
